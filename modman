@@ -1,0 +1,3 @@
+## Modman file
+app/code/community/Elgentos/AutoInvoice/ app/code/community/Elgentos/AutoInvoice/
+app/etc/modules/Elgentos_AutoInvoice.xml app/etc/modules/Elgentos_AutoInvoice.xml
